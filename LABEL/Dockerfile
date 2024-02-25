@@ -1,0 +1,4 @@
+FROM alamalinux:8
+LABEL TRAINING="DEVOPS" \
+      TRAINER="SIVAKUMAR" \
+      DURATION="120HRS"
